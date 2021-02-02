@@ -1,14 +1,14 @@
 ### RTE-news
 https://www.rte.ie/
 > Data
-https://github.com/vinejain/web-scraping/blob/main/rte-news-feb-2-2021.csv
-https://github.com/vinejain/web-scraping/blob/main/rte-news-feb-2-2021.json
+- https://github.com/vinejain/web-scraping/blob/main/rte-news-feb-2-2021.csv
+- https://github.com/vinejain/web-scraping/blob/main/rte-news-feb-2-2021.json
 
 ### JD-Sports
 https://www.jdsports.ie/
 > Data
-https://github.com/vinejain/web-scraping/blob/main/jdsports-mens-hoodie.csv
-https://github.com/vinejain/web-scraping/blob/main/jdsports-mens-hoodie.json
+- https://github.com/vinejain/web-scraping/blob/main/jdsports-mens-hoodie.csv
+- https://github.com/vinejain/web-scraping/blob/main/jdsports-mens-hoodie.json
 
 
 ### Worldometers Covid-19 cases
