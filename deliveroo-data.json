@@ -1,0 +1,486 @@
+{
+ "restaurant": [
+  {
+   "name": "The Brother’s Takeaway",
+   "distance": "2.7 km away",
+   "delivery_charge": "€2.50 delivery",
+   "rating": "3.8 Good",
+   "offer": "Meal Deals",
+   "rating_with_category": "3.8 Good(128)·Pizza·Dessert·Burgers·Chicken"
+  },
+  {
+   "name": "Benvindo",
+   "distance": "4.3 km away",
+   "delivery_charge": "€4.99 delivery",
+   "offer": "Spend €15, get 20% off selected items",
+   "rating_with_category": "4.5 Excellent(500+)·Burgers·BBQ·Latin American"
+  },
+  {
+   "name": "Iskender Turkish Kebab House",
+   "distance": "4.5 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating": "4.3 Very Good",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.3 Very Good(37)·Burgers·Turkish·Pizza·Kebab"
+  },
+  {
+   "name": "Abrakebabra",
+   "distance": "2.4 km away",
+   "delivery_charge": "€3.99 delivery",
+   "rating": "4.4 Very Good",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.4 Very Good(500+)·Burgers·Kebab·Chicken"
+  },
+  {
+   "name": "Yummy Oriental Lunch Meal Deals",
+   "distance": "2.4 km away",
+   "delivery_charge": "€3.99 delivery",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.5 Excellent(127)·Thai·Noodles·Chinese·Salads"
+  },
+  {
+   "name": "ML Szechuan Chinese Restaurant",
+   "distance": "4.4 km away",
+   "delivery_charge": "€4.99 delivery",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.5 Excellent(500+)·Chinese·Dumplings·Noodles·Sichuan"
+  },
+  {
+   "name": "Waki Noodle & Sushi Bar",
+   "distance": "2.7 km away",
+   "delivery_charge": "€3.00 delivery",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.5 Excellent(500+)·Sushi·Japanese·Asian"
+  },
+  {
+   "name": "Izumi Japanese Sushi",
+   "distance": "2.1 km away",
+   "delivery_charge": "€3.00 delivery",
+   "rating": "4.3 Very Good",
+   "offer": "Spend €20, get 10% off",
+   "rating_with_category": "4.3 Very Good(435)·Sushi·Chinese·Japanese·Asian"
+  },
+  {
+   "name": "Thunder Road Cafe",
+   "distance": "5.0 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating": "4.2 Very Good",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.2 Very Good(500+)·American·Burgers·Chicken"
+  },
+  {
+   "name": "Dutchess Foods",
+   "distance": "3.6 km away",
+   "delivery_charge": "€4.99 delivery",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.6 Excellent(98)·Dessert·Dutch·Cakes·Ice cream"
+  },
+  {
+   "name": "Diamond Pizza",
+   "distance": "2.5 km away",
+   "delivery_charge": "€3.99 delivery",
+   "rating": "4.1 Good",
+   "rating_with_category": "4.1 Good(255)·Italian·Pizza·Kebab"
+  },
+  {
+   "name": "The Brother’s Takeaway",
+   "distance": "2.7 km away",
+   "delivery_charge": "€2.50 delivery",
+   "rating": "3.8 Good",
+   "offer": "Meal Deals",
+   "rating_with_category": "3.8 Good(128)·Pizza·Dessert·Burgers·Chicken"
+  },
+  {
+   "name": "Dublin Kebab",
+   "distance": "3.5 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating": "4.3 Very Good",
+   "rating_with_category": "4.3 Very Good(404)·Turkish·Kebab"
+  },
+  {
+   "name": "Bombay Flame",
+   "distance": "4.6 km away",
+   "delivery_charge": "€2.90 delivery",
+   "rating": "4.1 Good",
+   "offer": "Spend €15, get 15% off",
+   "rating_with_category": "4.1 Good(500+)·Curry·Indian"
+  },
+  {
+   "name": "Mr Kebab",
+   "distance": "3.6 km away",
+   "delivery_charge": "€3.00 delivery",
+   "rating": "4.0 Good",
+   "rating_with_category": "4.0 Good(426)·Burgers·Kebab"
+  },
+  {
+   "name": "Bombay Flame",
+   "distance": "4.6 km away",
+   "delivery_charge": "€2.90 delivery",
+   "rating": "4.1 Good",
+   "offer": "Spend €15, get 15% off",
+   "rating_with_category": "4.1 Good(500+)·Curry·Indian"
+  },
+  {
+   "name": "The Brother’s Takeaway",
+   "distance": "2.7 km away",
+   "delivery_charge": "€2.50 delivery",
+   "rating": "3.8 Good",
+   "offer": "Meal Deals",
+   "rating_with_category": "3.8 Good(128)·Pizza·Dessert·Burgers·Chicken"
+  },
+  {
+   "name": "Dublin Kebab",
+   "distance": "3.5 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating": "4.3 Very Good",
+   "rating_with_category": "4.3 Very Good(404)·Turkish·Kebab"
+  },
+  {
+   "name": "Diamond Pizza",
+   "distance": "2.5 km away",
+   "delivery_charge": "€3.99 delivery",
+   "rating": "4.1 Good",
+   "rating_with_category": "4.1 Good(255)·Italian·Pizza·Kebab"
+  },
+  {
+   "name": "Mr Kebab",
+   "distance": "3.6 km away",
+   "delivery_charge": "€3.00 delivery",
+   "rating": "4.0 Good",
+   "rating_with_category": "4.0 Good(426)·Burgers·Kebab"
+  },
+  {
+   "name": "Spar Deli",
+   "distance": "2.0 km away",
+   "delivery_charge": "€3.49 delivery",
+   "rating_with_category": "4.6 Excellent(500+)·Sandwiches·Irish·Grocery"
+  },
+  {
+   "name": "The Hot Donut",
+   "distance": "4.5 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating": "4.4 Very Good",
+   "rating_with_category": "4.4 Very Good(500+)·Dessert·Breakfast·Western·Donuts"
+  },
+  {
+   "name": "Braza Burger",
+   "distance": "3.8 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating_with_category": "4.8 Excellent(16)·American·Burgers·Irish·Wings"
+  },
+  {
+   "name": "Londis East Wall",
+   "distance": "4.4 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating_with_category": "4.6 Excellent(71)·Alcohol·Grocery"
+  },
+  {
+   "name": "Londis",
+   "distance": "4.2 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating": "4.3 Very Good",
+   "rating_with_category": "4.3 Very Good(154)·Sandwiches·Breakfast·Grocery"
+  },
+  {
+   "name": "It’s a Trap",
+   "distance": "3.9 km away",
+   "delivery_charge": "€4.99 delivery",
+   "rating_with_category": "4.6 Excellent(239)·Café·Coffee·Dessert·Brunch"
+  },
+  {
+   "name": "White Moose Cafe",
+   "distance": "3.8 km away",
+   "rating_with_category": "4.4 Very Good(489)·Sandwiches·Café"
+  },
+  {
+   "name": "Spar Off-Licence",
+   "distance": "2.0 km away",
+   "rating_with_category": "4.8 Excellent(500+)·Irish·Alcohol·Grocery"
+  },
+  {
+   "name": "Benvindo",
+   "distance": "4.3 km away",
+   "offer": "Spend €15, get 20% off selected items",
+   "rating_with_category": "4.5 Excellent(500+)·Burgers·BBQ·Latin American"
+  },
+  {
+   "name": "ALDI",
+   "distance": "1.0 km away",
+   "rating_with_category": "4.5 Excellent(368)·Grocery·Drinks"
+  },
+  {
+   "name": "Iskender Turkish Kebab House",
+   "distance": "4.5 km away",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.3 Very Good(37)·Burgers·Turkish·Pizza·Kebab"
+  },
+  {
+   "name": "Wasabi Market Off License",
+   "distance": "3.7 km away",
+   "rating_with_category": "4.6 Excellent(244)·Grocery·Latin American"
+  },
+  {
+   "name": "Chaska",
+   "distance": "4.6 km away",
+   "offer": "20% off entire menu",
+   "rating_with_category": "4.5 Excellent(500+)·Indian·Curry"
+  },
+  {
+   "name": "Bragadeiros",
+   "distance": "4.5 km away",
+   "rating_with_category": "4.7 Excellent(500+)·Dessert·Latin American"
+  },
+  {
+   "name": "Musashi - Parnell Street",
+   "distance": "4.4 km away",
+   "offer": "Spend €20, get 50% off selected items",
+   "rating_with_category": "4.7 Excellent(500+)·Sushi·Japanese"
+  },
+  {
+   "name": "Salsa - Authentic Mexican Food - International Financial Services Centre",
+   "distance": "4.6 km away",
+   "rating_with_category": "4.6 Excellent(500+)·Burritos·Mexican·Spanish·Tacos"
+  },
+  {
+   "name": "Musashi IFSC",
+   "distance": "4.6 km away",
+   "offer": "Spend €20, get 50% off selected items",
+   "rating_with_category": "4.7 Excellent(500+)·Sushi·Japanese"
+  },
+  {
+   "name": "Kagurazaka",
+   "distance": "4.4 km away",
+   "offer": "Spend €20, get 30% off selected items",
+   "rating_with_category": "4.6 Excellent(290)·Sushi·Japanese"
+  },
+  {
+   "name": "Boojum",
+   "distance": "4.9 km away",
+   "rating_with_category": "4.7 Excellent(500+)·Burritos·Mexican·Milkshakes"
+  },
+  {
+   "name": "Oh! My Street Food",
+   "distance": "5.0 km away",
+   "rating_with_category": "4.7 Excellent(500+)·Chinese·Bubble tea·Noodles·Asian"
+  },
+  {
+   "name": "Bowls by Kwanghi Chan",
+   "distance": "4.1 km away",
+   "offer": "Spend €30, get 20% off",
+   "rating_with_category": "4.4 Very Good(500+)·Noodles·Salads·Chinese"
+  },
+  {
+   "name": "El Grito",
+   "distance": "3.7 km away",
+   "rating_with_category": "4.5 Excellent(500+)·Burritos·Mexican·Tacos·Healthy"
+  },
+  {
+   "name": "Abrakebabra",
+   "distance": "2.4 km away",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.4 Very Good(500+)·Burgers·Kebab·Chicken"
+  },
+  {
+   "name": "Elephant & Castle @ The Mayson",
+   "distance": "5.1 km away",
+   "rating_with_category": "4.5 Excellent(500+)·American·Wings"
+  },
+  {
+   "name": "Wok On Inn",
+   "distance": "4.4 km away",
+   "rating_with_category": "4.3 Very Good(500+)·Asian·Chinese"
+  },
+  {
+   "name": "Wowburger - Glasnevin",
+   "distance": "0.8 km away",
+   "rating_with_category": "4.5 Excellent(500+)·American·Burgers·Milkshakes"
+  },
+  {
+   "name": "Saburritos - North Earl St",
+   "distance": "4.5 km away",
+   "rating_with_category": "4.2 Very Good(500+)·Burritos·Mexican"
+  },
+  {
+   "name": "Yummy Oriental Lunch Meal Deals",
+   "distance": "2.4 km away",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.5 Excellent(127)·Thai·Noodles·Chinese·Salads"
+  },
+  {
+   "name": "ML Szechuan Chinese Restaurant",
+   "distance": "4.4 km away",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.5 Excellent(500+)·Chinese·Dumplings·Noodles·Sichuan"
+  },
+  {
+   "name": "Turkish Kebab House",
+   "distance": "4.1 km away",
+   "rating_with_category": "4.4 Very Good(500+)·Burgers·Kebab·Fried chicken·Chicken"
+  },
+  {
+   "name": "Café Oasis",
+   "distance": "4.6 km away",
+   "offer": "Spend €30, get 20% off",
+   "rating_with_category": "4.6 Excellent(500+)·Middle Eastern·Lebanese·Kebab"
+  },
+  {
+   "name": "Cafe Sicily",
+   "distance": "4.6 km away",
+   "offer": "Spend €30, get 20% off",
+   "rating_with_category": "4.6 Excellent(500+)·Pizza·Italian·Pasta"
+  },
+  {
+   "name": "J2 Grill & Sushi ifsc",
+   "distance": "4.8 km away",
+   "offer": "Spend €25, get 10% off",
+   "rating_with_category": "4.6 Excellent(500+)·Japanese·Sushi·Dessert·Brunch"
+  },
+  {
+   "name": "Lee Kee Chinese Restaurant",
+   "distance": "4.1 km away",
+   "rating_with_category": "4.3 Very Good(500+)·Chinese·Chicken·Noodles·Dumplings"
+  },
+  {
+   "name": "Wood Fire Cafe",
+   "distance": "3.8 km away",
+   "rating_with_category": "4.5 Excellent(500+)·Pizza·Italian·Breakfast·Pasta"
+  },
+  {
+   "name": "Waki Noodle & Sushi Bar",
+   "distance": "2.7 km away",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.5 Excellent(500+)·Sushi·Japanese·Asian"
+  },
+  {
+   "name": "VeV Bakery",
+   "distance": "5.1 km away",
+   "offer": "Spend €10, get 25% off selected items",
+   "rating_with_category": "4.8 Excellent(40)·Bakery·Cakes·Dessert"
+  },
+  {
+   "name": "Okayu Lunch Meal Deals",
+   "distance": "3.6 km away",
+   "rating_with_category": "Sushi·Japanese·Dumplings"
+  },
+  {
+   "name": "Lee Kee Rice Bowls",
+   "distance": "4.1 km away",
+   "rating_with_category": "Chinese·Brunch·Chicken·Seafood"
+  },
+  {
+   "name": "Hasu Japanese & Thai",
+   "distance": "3.3 km away",
+   "offer": "Spend €20, get 10% off",
+   "rating_with_category": "4.6 Excellent(500+)·Japanese·Sushi"
+  },
+  {
+   "name": "Slammin Ramen",
+   "distance": "3.3 km away",
+   "rating_with_category": "4.1 Good(359)·Japanese·Dumplings·Ramen"
+  },
+  {
+   "name": "Izumi Japanese Sushi",
+   "distance": "2.1 km away",
+   "offer": "Spend €20, get 10% off",
+   "rating_with_category": "4.3 Very Good(435)·Sushi·Chinese·Japanese·Asian"
+  },
+  {
+   "name": "Kimchi",
+   "distance": "4.2 km away",
+   "rating_with_category": "4.6 Excellent(500+)·Korean·Japanese·Sushi·Healthy"
+  },
+  {
+   "name": "Dera Indian",
+   "distance": "4.1 km away",
+   "rating_with_category": "4.3 Very Good(500+)·BBQ·Indian"
+  },
+  {
+   "name": "Shangri-La Asian Cuisines",
+   "distance": "5.0 km away",
+   "rating_with_category": "4.4 Very Good(500+)·Chinese·Noodles"
+  },
+  {
+   "name": "Kung Fu Buffet",
+   "distance": "3.4 km away",
+   "rating_with_category": "4.0 Good(500+)·Chinese"
+  },
+  {
+   "name": "Spicy Bite",
+   "distance": "4.1 km away",
+   "rating_with_category": "4.3 Very Good(500+)·Curry·Indian"
+  },
+  {
+   "name": "Bleecker Street Cafe Bar",
+   "distance": "3.7 km away",
+   "rating_with_category": "4.2 Very Good(38)·Irish·Brunch·Drinks"
+  },
+  {
+   "name": "SoMa",
+   "distance": "4.5 km away",
+   "rating_with_category": "4.1 Good(62)·Irish·Burritos·Burgers"
+  },
+  {
+   "name": "Bombay Pantry",
+   "distance": "3.1 km away",
+   "rating_with_category": "4.2 Very Good(500+)·Indian·Chicken·Seafood·Salads"
+  },
+  {
+   "name": "Okayu",
+   "distance": "3.6 km away",
+   "rating_with_category": "4.7 Excellent(500+)·Japanese·Sushi"
+  },
+  {
+   "name": "The Back Page Pizzeria",
+   "distance": "3.7 km away",
+   "rating_with_category": "4.7 Excellent(500+)·Italian·Pizza"
+  },
+  {
+   "name": "Il Corvo Restaurant",
+   "distance": "2.1 km away",
+   "rating_with_category": "4.2 Very Good(206)·Italian·Pizza·Chicken·Pasta"
+  },
+  {
+   "name": "Chilli Banana Restaurant",
+   "distance": "2.1 km away",
+   "rating_with_category": "4.2 Very Good(41)·Noodles·Thai"
+  },
+  {
+   "name": "Diep",
+   "distance": "3.1 km away",
+   "rating_with_category": "4.4 Very Good(421)·Thai·Curry·Noodles·Salads"
+  },
+  {
+   "name": "Thai Spice",
+   "distance": "4.4 km away",
+   "rating_with_category": "4.6 Excellent(500+)·Thai·Chicken·Kebab·Curry"
+  },
+  {
+   "name": "Drunken Fish",
+   "distance": "4.7 km away",
+   "offer": "Spend €30, add a free item",
+   "rating_with_category": "4.6 Excellent(500+)·Korean·Healthy"
+  },
+  {
+   "name": "Happy Endings Fried Chicken",
+   "distance": "3.6 km away",
+   "rating_with_category": "4.4 Very Good(348)·Wings·Burgers·Chinese·Asian"
+  },
+  {
+   "name": "Kuardo Sushi & Gyoza",
+   "distance": "4.8 km away",
+   "rating_with_category": "4.4 Very Good(500+)·Sushi·Dim Sum·Japanese·Seafood"
+  },
+  {
+   "name": "Thunder Road Cafe",
+   "distance": "5.0 km away",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.2 Very Good(500+)·American·Burgers·Chicken"
+  },
+  {
+   "name": "Dutchess Foods",
+   "distance": "3.6 km away",
+   "offer": "Meal Deals",
+   "rating_with_category": "4.6 Excellent(98)·Dessert·Dutch·Cakes·Ice cream"
+  }
+ ]
+}
