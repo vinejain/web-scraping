@@ -4,6 +4,11 @@ https://www.rte.ie/
 - https://github.com/vinejain/web-scraping/blob/main/rte-news-feb-2-2021.csv
 - https://github.com/vinejain/web-scraping/blob/main/rte-news-feb-2-2021.json
 
+### Deliveroo
+https://deliveroo.ie/restaurants/dublin/santry-demesne?fulfillment_method=DELIVERY
+> Data
+- https://github.com/vinejain/web-scraping/blob/main/deliveroo-data.json
+
 ### JD-Sports
 https://www.jdsports.ie/
 > Data
